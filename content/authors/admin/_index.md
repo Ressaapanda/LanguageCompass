@@ -2,8 +2,8 @@
 # Display name
 title: Language Compass
 
- Name pronunciation (optional)
-name_pronunciation: 
+# Name pronunciation (optional)
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Satu
