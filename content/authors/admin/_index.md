@@ -2,7 +2,7 @@
 # Display name
 title: Language Compass
 
-# Name pronunciation (optional)
+ Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
